@@ -5,4 +5,4 @@ This is the landing page for the shape E-cart application. It is a Maven Project
 THe design and style was implemented using BOOTSRAP.
 
 Backend tables are created using Hibernate ORM tool with the Juint test cases for the CRUD operations.
-
+Doing the spring security using annotation.
